@@ -1,4 +1,4 @@
-//===------------__ Hacking STEM – Windmill.X.X.X.ino – Arduino __---------===//
+//===------------__ Hacking STEM – WindTurbine.ino – Arduino __---------===//
 // For use with the "WIND TURBINE Increasing Power Through
 // Design" lesson plan available from Microsoft Education Workshop at
 // http://aka.ms/hackingSTEM
@@ -18,7 +18,7 @@
 // are welcome! For source code and bug reports see:
 // http://github.com/[TODO github path to Hacking STEM]
 //
-// Copyright [year], [your name] Microsoft EDU Workshop - HackingSTEM
+// Copyright 2017, Microsoft EDU Workshop - HackingSTEM
 // MIT License terms detailed in LICENSE.md
 //===----------------------------------------------------------------------===//
 
