@@ -1,7 +1,7 @@
 //===------------__ Hacking STEM – WindTurbine.ino – Arduino __---------===//
 // For use with the "WIND TURBINE Increasing Power Through
 // Design" lesson plan available from Microsoft Education Workshop at
-// https://www.microsoft.com/en-us/education/education-workshop/windmill.aspx
+// https://education.microsoft.com/hackingStem/lesson/47392ecb
 // http://aka.ms/hackingSTEM
 //
 // Overview:
